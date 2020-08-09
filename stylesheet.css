@@ -30,6 +30,16 @@
     font-family: 'Architects Daughter', cursive;
 }
 
+.caption2{
+    color: snow;
+    font-family: 'Architects Daughter', cursive;
+    position: relative;
+    left: 60%;
+    top: 5%;
+    font-size: xx-large;
+    align-content: center;
+}
+
 #page1{
     width: 100%;
     height: 100vh;
@@ -126,7 +136,7 @@
 }
 
 #page5{
-    background-color: #151E3D;
+    background-color: #5B3739;
     -webkit-background-size: cover;
     background-size: cover;
     width: 100%;
@@ -141,10 +151,10 @@
     height: 90vh;
     width: 90vw;
     top: 3%;
-    left: 7%;
+    left: -5%;
 }
 #page6{
-    background-color: #151E3D;
+    background-color: #06170E;
     -webkit-background-size: cover;
     background-size: cover;
     width: 100%;
@@ -156,11 +166,133 @@
 
 .photo6{
     position: relative;
-    height: 90vh;
-    width: 90vw;
+    height: 65vh;
+    width: 65vw;
     top: 3%;
-    left: 7%;
+    left: 17%;
 }
+
+#page7{
+    background-color: #400000;
+    -webkit-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    padding: 0;
+}
+
+
+.photo7{
+    position: relative;
+    height: 30vh;
+    width: 30vw;
+    top: 3%;
+    left: 17%;
+}
+
+#page8{
+    background-image: url("img/background.svg") ;
+    background-size: cover;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.photo8{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+.caption3{
+    color: snow;
+    font-family: 'Architects Daughter', cursive;
+    font-size: xx-large;
+    position: relative;
+    top: 20%;
+    left: 10%;
+    align-content: center;
+
+}
+
+#page9{
+    background-color: #01021e ;
+    background-size: cover;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.photo9{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    left: 3%;
+    top: 15%;
+}
+.caption4{
+    color: snow;
+    font-family: 'Architects Daughter', cursive;
+    font-size: x-large;
+    position: relative;
+    top: -30%;
+    left: 60%;
+    align-content: center;
+
+}
+.caption5{
+    color: snow;
+    font-family: 'Architects Daughter', cursive;
+    font-size: x-large;
+    position: relative;
+    top: -20%;
+    left: 60%;
+    align-content: center;
+
+}
+
+#page10{
+    background-color: #000 ;
+    background-size: cover;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.photo10{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    left: 1%;
+    top: 1%;
+}
+.caption6{
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+    font-size: x-large;
+    position: relative;
+    top: -10%;
+    left: 30%;
+    z-index: 2;
+    align-content: center;
+
+}
+
+#page11{
+    background-size: cover;
+    overflow: scroll;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.photo11{
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+    top: 1%;
+    left: 1%;
+}
+
 
 #sun{
     
